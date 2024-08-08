@@ -3,7 +3,7 @@
 ### Opa, tudo bem? :punch:
 
 Me chamo Fernando, sou do estado de São Paulo estudo Ciências da Computação na Universidade Federal de São Paulo!
-Estive 5 anos em Portugal, onde iniciei e larguei uma licenciatura em Marketing e Gestão e adquiri experiência pessoal e profissional, até que me rendi a minha paixão: tecnologia.
+Estive 5 anos em Portugal, onde iniciei uma licenciatura em Marketing e Gestão e adquiri experiência pessoal e profissional, até que me rendi a minha paixão: tecnologia.
 Voltei para o Brasil para estudar e ingressar no mercado de TI assim que possível.
 
 Nesse momento confio nas minhas capacidades em: <br>
